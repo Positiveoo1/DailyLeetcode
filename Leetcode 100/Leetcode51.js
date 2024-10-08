@@ -1,3 +1,4 @@
+//67. Add Binary EASY
 var addBinary = function(a, b) { 
     let sum = 0;
     let carry = 0;

@@ -1,3 +1,4 @@
+//3120. Count the Number of Special Characters I EASY
 var numberOfSpecialChars = function(word) {
     let set1 = new Set();
     let set2 = new Set();
