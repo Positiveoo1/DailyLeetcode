@@ -44,6 +44,3 @@ If you have suggestions for better solutions or alternative approaches, feel fre
 - Open-source communities for inspiration and learning from others.
 
 ---
-
-Let me know if you’d like any adjustments or additions to this template!
-The progress bar now reflects **100/100** (fully completed)!
