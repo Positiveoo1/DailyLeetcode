@@ -1,6 +1,6 @@
 # Leetcode 100 Solutions
 
-![Project Progress](https://img.shields.io/badge/Progress-0%2F100-brightgreen.svg)
+![Project Progress](https://img.shields.io/badge/Progress-100%2F100-brightgreen.svg)
 
 ## Overview
 
@@ -46,3 +46,4 @@ If you have suggestions for better solutions or alternative approaches, feel fre
 ---
 
 Let me know if you’d like any adjustments or additions to this template!
+The progress bar now reflects **100/100** (fully completed)!
