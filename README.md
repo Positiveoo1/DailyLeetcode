@@ -26,7 +26,7 @@ I started this project to consistently practice algorithms and data structures w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Positiveoo1/Leetcode-100-Solutions.git
+   git clone https://github.com/Positiveoo1/DailyLeetcode
    ```
 
 2. Navigate to the problem folder:
